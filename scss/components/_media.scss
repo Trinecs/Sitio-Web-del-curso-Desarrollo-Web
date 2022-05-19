@@ -31,6 +31,11 @@
     .sobre_nosotros p {
         padding: 0px 50px
     }
+    .productos {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
     .productos img {
         width: 49%;
     }
