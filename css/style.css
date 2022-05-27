@@ -154,12 +154,6 @@ footer img {
   height: 250px;
 }
 
-.productos {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: center;
-}
-
 .productos img {
   width: 100%;
 }
